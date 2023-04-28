@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="pynbp",
     version='0.0.1',
-    description="tidy downloading of NBP interest rates, FX rates and gold price data",
+    description="tidy downloading of National Bank of Poland interest rates, FX rates and gold price data",
     author_email="awegrzyn17@gmail.com",
     author="Artur Wegrzyn",
     packages=find_packages(exclude=["tests"]),
